@@ -1,0 +1,1 @@
+![Model Osi](../../0media/RedesII/Modelo%20Osi.png)
