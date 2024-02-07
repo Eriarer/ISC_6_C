@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pendiente",
+      "path": "RedesII/Pendiente.md"
+    },
+    {
       "basename": "003_Gráficos",
       "path": "Estadistica/Unidad 1/003_Gráficos.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "005_Firewalls",
       "path": "RedesII/Primer parcial/005_Firewalls.md"
-    },
-    {
-      "basename": "Pendiente",
-      "path": "RedesII/Pendiente.md"
     },
     {
       "basename": "004_Extranets",
