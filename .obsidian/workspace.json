@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "86a630665a9a6948",
+    "id": "4d3c7e17ebf14485",
     "type": "split",
     "children": [
       {
-        "id": "4ccf4f4c47c78ade",
+        "id": "9d7a3fe775248e54",
         "type": "tabs",
         "children": [
           {
-            "id": "dfe07cf83a61fd68",
+            "id": "1cd7a18b54eca9e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estadistica/Unidad 1/003_Gráficos.md",
+                "file": "RedesII/Pendiente.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,15 +25,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a8dc019f64bbae36",
+    "id": "4ddfb284ae70789c",
     "type": "split",
     "children": [
       {
-        "id": "e501acb45d0164db",
+        "id": "fbfee073ff90d3a5",
         "type": "tabs",
+        "dimension": 78.54077253218884,
         "children": [
           {
-            "id": "9f8000dbc3259bd6",
+            "id": "d79230256648e449",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +44,7 @@
             }
           },
           {
-            "id": "dc03ba2f5d4b5eb2",
+            "id": "e1b06a1a649e7c83",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,15 +59,7 @@
             }
           },
           {
-            "id": "f3981d926b4cbdb9",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "ba047cd75694ac43",
+            "id": "96ddb96f98235789",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,26 +67,41 @@
             }
           }
         ]
+      },
+      {
+        "id": "79adc2feb170fc2f",
+        "type": "tabs",
+        "dimension": 21.45922746781116,
+        "children": [
+          {
+            "id": "c7dce49229e25e90",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 321.50328826904297
   },
   "right": {
-    "id": "b541469cf90e21c5",
+    "id": "b75c9b4fee176d0b",
     "type": "split",
     "children": [
       {
-        "id": "321704afe111cb80",
+        "id": "d25513d7128e9379",
         "type": "tabs",
         "children": [
           {
-            "id": "ac890b488a9fd193",
+            "id": "a3dc0ae6ff41e887",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estadistica/Unidad 1/003_Gráficos.md",
+                "file": "RedesII/Pendiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +113,19 @@
             }
           },
           {
-            "id": "e4a3039309f2995d",
+            "id": "5063db4bc65bd06a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estadistica/Unidad 1/003_Gráficos.md",
+                "file": "RedesII/Pendiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1aef7a6d24d117e7",
+            "id": "bfc572eab8339740",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -128,12 +136,12 @@
             }
           },
           {
-            "id": "6769e4b27a6ae830",
+            "id": "ce805d4e899c7cc0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estadistica/Unidad 1/003_Gráficos.md"
+                "file": "RedesII/Pendiente.md"
               }
             }
           }
@@ -141,68 +149,69 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 251.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": true,
+      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
       "templates:Insert template": true,
-      "command-palette:Open command palette": true,
-      "markdown-importer:Open format converter": false,
+      "markdown-importer:Open format converter": true,
       "workspaces:Manage workspace layouts": false,
+      "command-palette:Open command palette": true,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "dfe07cf83a61fd68",
+  "active": "1cd7a18b54eca9e2",
   "lastOpenFiles": [
-    "Estadistica/Unidad 1/004_Medidas_de_resumen.md",
+    "Sistemas/Unidad I/002_Componentes del sistema de producción.md",
+    "Sistemas/Actividades/01 Actividad.md",
+    "Sistemas/Actividades",
     "Electronica/Primer parcial/006_El_diodo_ideal.md",
+    "0media/Electronica/medicion_2.webp",
+    "0media/Electronica/medicion_1.webp",
+    "0media/Electronica/diodo_anodo&catodo.png",
+    "0media/Electronica/caracteristica electria.gif",
+    "0media/Electronica/ValvulaCheck.png",
     "0media/Electronica/Resistencia.png",
+    "0media/Electronica/Diodo_2.png",
     "0media/Electronica/Diagrama_Intensidad.png",
     "0media/Electronica/Diagrama_FueteVoltaje.png",
-    "Estadistica/Unidad 1/003_Gráficos.md",
-    "Electronica/Primer parcial/003_Origen_de_la_electrónica.md",
-    "Electronica/Primer parcial/005_Conceptos_Importantes.md",
-    "0media/Electronica/caracteristica electria.gif",
-    "0media/Electronica/medicion_1.webp",
-    "0media/Electronica/medicion_2.webp",
-    "0media/Electronica/Diodo_2.png",
-    "Sistemas/Unidad I/001_Sisema.md",
-    "Sistemas/Objetivo general.md",
-    "Sistemas/Actividades/01 Actividad.md",
-    "0media/Electronica/diodo_anodo&catodo.png",
-    "0media/Electronica/ValvulaCheck.png",
-    "Sistemas/Actividades",
-    "Sistemas/Unidad I/002_Componentes del sistema de producción.md",
+    "RedesII/Tarea/Primer_Parcial/01_Network_Appliance.md",
     "RedesII/Primer parcial/006_Network_Appliance.md",
-    "RedesII/Primer parcial/005_Firewalls.md",
-    "RedesII/Pendiente.md",
     "RedesII/Primer parcial/004_Extranets.md",
-    "0media/Electronica/Portadores_carga.png",
+    "RedesII/Primer parcial/005_Firewalls.md",
     "RedesII/Primer parcial/003_Software.md",
-    "Estadistica/Unidad 1/001_Conceptos_básicos.md",
-    "Estadistica/Unidad 1/002 Organización de datos.md",
-    "Electronica/Primer parcial/004_Schrodinger's Formula.md",
-    "Estadistica/R/001_Bases_R.md",
-    "Estadistica/R/002_Gráficos_.md",
-    "RedesII/Primer parcial/002_Intranet.md",
-    "Electronica/Primer parcial/001_Tipos_de_Materiales.md",
-    "0media/Electronica",
-    "Estadistica/R",
-    "Estadistica/Unidad 1",
-    "Estadistica",
-    "Sistemas/UML_Lenguaje_Unificado_de_Modelado.md",
-    "0media/Sistemas",
-    "0media",
     "RedesII/Primer parcial/001_Intranet_Y_Extranet.md",
-    "Electronica/Primer parcial",
-    "Electronica",
-    "Sistemas/Unidad I",
-    "Pendiente.md",
-    "Primer parcial/001_Intranet_Y_Extranet.md"
+    "RedesII/Primer parcial/002_Intranet.md",
+    "RedesII/Investigaciones/Modelo Osi.md",
+    "0media/RedesII",
+    "0media/RedesII/Modelo Osi.png",
+    "RedesII/Investigaciones",
+    "RedesII/Pendiente.md",
+    "RedesII/Tarea/Primer_Parcial",
+    "RedesII/Tarea",
+    "Sistemas/UML_Lenguaje_Unificado_de_Modelado.md",
+    "Sistemas/Objetivo general.md",
+    "Estructura_de_datos_2/Problemario_Docente/Untitled.md",
+    "Estructura_de_datos_1/Manual/1_Datos/1.0Datos.md",
+    "media/5_Listas_Enlazadas",
+    "Estructura_de_datos_1/Manual/3_Recursividad/3.0Recursividad.md",
+    "media/04_Busqueda_y_Ordenamiento",
+    "Estructura_de_datos_1/Manual/4_Busqueda_y_Ordenamiento/4.2Busqueda.md",
+    "Estructura_de_datos_1/Manual/4_Busqueda_y_Ordenamiento/4.0Algoritmos.md",
+    "Estructura_de_datos_1/Problemario_Alumnado/03_Recursividad/03.05_Base_10_a_16.md",
+    "Estructura_de_datos_1/Problemario_Alumnado/03_Recursividad/03.04_MCD.md",
+    "Estructura_de_datos_1/Problemario_Alumnado/03_Recursividad/03.03_Suma_números_Suc_Pred.md",
+    "Estructura_de_datos_1/Problemario_Alumnado/03_Recursividad/03.00_Fibonnacci.md",
+    "Estructura_de_datos_1/Problemario_Alumnado/03_Recursividad/03.01_Fibonnacci_iterativo_vs_recursivo.md",
+    "Estructura_de_datos_1/Problemario_Alumnado/03_Recursividad/03.02_Máximo_número_en_un_array.md",
+    "Estructura_de_datos_2/Manual/2_Grafos/2.01 Grafos.md",
+    "media/ED2/2_Grafos",
+    "media/ED2",
+    "Estructura_de_datos_1/Problemario_Alumnado/03_Recursividad"
   ]
 }
