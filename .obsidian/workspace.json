@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3eebd480b2750b82",
+        "id": "4ccf4f4c47c78ade",
         "type": "tabs",
         "children": [
           {
-            "id": "01ce5152aee34dc0",
+            "id": "dfe07cf83a61fd68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemas/Unidad I/001_Sisema.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "dc243d30dfdc90da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas/Objetivo general.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d4a3d1c619271b2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas/Actividades/01 Actividad.md",
+                "file": "Estadistica/Unidad 1/003_Gráficos.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemas/Actividades/01 Actividad.md",
+                "file": "Estadistica/Unidad 1/003_Gráficos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistemas/Actividades/01 Actividad.md",
+                "file": "Estadistica/Unidad 1/003_Gráficos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sistemas/Actividades/01 Actividad.md"
+                "file": "Estadistica/Unidad 1/003_Gráficos.md"
               }
             }
           }
@@ -182,49 +157,51 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d4a3d1c619271b2f",
+  "active": "dfe07cf83a61fd68",
   "lastOpenFiles": [
-    "Sistemas/Actividades",
+    "Estadistica/Unidad 1/004_Medidas_de_resumen.md",
+    "Electronica/Primer parcial/006_El_diodo_ideal.md",
+    "0media/Electronica/Resistencia.png",
+    "0media/Electronica/Diagrama_Intensidad.png",
+    "0media/Electronica/Diagrama_FueteVoltaje.png",
+    "Estadistica/Unidad 1/003_Gráficos.md",
+    "Electronica/Primer parcial/003_Origen_de_la_electrónica.md",
+    "Electronica/Primer parcial/005_Conceptos_Importantes.md",
+    "0media/Electronica/caracteristica electria.gif",
+    "0media/Electronica/medicion_1.webp",
+    "0media/Electronica/medicion_2.webp",
+    "0media/Electronica/Diodo_2.png",
+    "Sistemas/Unidad I/001_Sisema.md",
     "Sistemas/Objetivo general.md",
     "Sistemas/Actividades/01 Actividad.md",
+    "0media/Electronica/diodo_anodo&catodo.png",
+    "0media/Electronica/ValvulaCheck.png",
+    "Sistemas/Actividades",
     "Sistemas/Unidad I/002_Componentes del sistema de producción.md",
-    "Sistemas/Unidad I/001_Sisema.md",
     "RedesII/Primer parcial/006_Network_Appliance.md",
     "RedesII/Primer parcial/005_Firewalls.md",
     "RedesII/Pendiente.md",
     "RedesII/Primer parcial/004_Extranets.md",
-    "Electronica/Primer parcial/005_Conceptos_Importantes.md",
     "0media/Electronica/Portadores_carga.png",
-    "0media/Electronica/Flujo_electrones_&_huecos.png",
-    "Estadistica/Unidad 1/004_Medidas_de_resumen.md",
-    "Estadistica/Unidad 1/003_Gráficos.md",
     "RedesII/Primer parcial/003_Software.md",
     "Estadistica/Unidad 1/001_Conceptos_básicos.md",
     "Estadistica/Unidad 1/002 Organización de datos.md",
     "Electronica/Primer parcial/004_Schrodinger's Formula.md",
-    "Electronica/Primer parcial/003_Origen_de_la_electrónica.md",
-    "0media/Electronica/Configuracion de silicio.png",
-    "0media/Electronica/BandGap.png",
-    "0media/Electronica/Nivel_energia.png",
     "Estadistica/R/001_Bases_R.md",
     "Estadistica/R/002_Gráficos_.md",
     "RedesII/Primer parcial/002_Intranet.md",
-    "0media/Sistemas/Elementos_de_un_Sistema.png",
     "Electronica/Primer parcial/001_Tipos_de_Materiales.md",
     "0media/Electronica",
     "Estadistica/R",
     "Estadistica/Unidad 1",
     "Estadistica",
     "Sistemas/UML_Lenguaje_Unificado_de_Modelado.md",
-    "0media/Sistemas/Componentes_de_Un_Sistea.png",
-    "0media/Pasted image 20240201085149.png",
     "0media/Sistemas",
     "0media",
     "RedesII/Primer parcial/001_Intranet_Y_Extranet.md",
     "Electronica/Primer parcial",
     "Electronica",
     "Sistemas/Unidad I",
-    "Sistemas",
     "Pendiente.md",
     "Primer parcial/001_Intranet_Y_Extranet.md"
   ]

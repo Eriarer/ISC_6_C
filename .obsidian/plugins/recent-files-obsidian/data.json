@@ -1,20 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "01 Actividad",
-      "path": "Sistemas/Actividades/01 Actividad.md"
+      "basename": "003_Gráficos",
+      "path": "Estadistica/Unidad 1/003_Gráficos.md"
+    },
+    {
+      "basename": "004_Medidas_de_resumen",
+      "path": "Estadistica/Unidad 1/004_Medidas_de_resumen.md"
+    },
+    {
+      "basename": "006_El_diodo_ideal",
+      "path": "Electronica/Primer parcial/006_El_diodo_ideal.md"
+    },
+    {
+      "basename": "003_Origen_de_la_electrónica",
+      "path": "Electronica/Primer parcial/003_Origen_de_la_electrónica.md"
+    },
+    {
+      "basename": "005_Conceptos_Importantes",
+      "path": "Electronica/Primer parcial/005_Conceptos_Importantes.md"
+    },
+    {
+      "basename": "medicion_1",
+      "path": "0media/Electronica/medicion_1.webp"
+    },
+    {
+      "basename": "medicion_2",
+      "path": "0media/Electronica/medicion_2.webp"
+    },
+    {
+      "basename": "001_Sisema",
+      "path": "Sistemas/Unidad I/001_Sisema.md"
     },
     {
       "basename": "Objetivo general",
       "path": "Sistemas/Objetivo general.md"
     },
     {
-      "basename": "002_Componentes del sistema de producción",
-      "path": "Sistemas/Unidad I/002_Componentes del sistema de producción.md"
+      "basename": "01 Actividad",
+      "path": "Sistemas/Actividades/01 Actividad.md"
     },
     {
-      "basename": "001_Sisema",
-      "path": "Sistemas/Unidad I/001_Sisema.md"
+      "basename": "diodo_anodo&catodo",
+      "path": "0media/Electronica/diodo_anodo&catodo.png"
+    },
+    {
+      "basename": "ValvulaCheck",
+      "path": "0media/Electronica/ValvulaCheck.png"
+    },
+    {
+      "basename": "002_Componentes del sistema de producción",
+      "path": "Sistemas/Unidad I/002_Componentes del sistema de producción.md"
     },
     {
       "basename": "006_Network_Appliance",
@@ -33,18 +69,6 @@
       "path": "RedesII/Primer parcial/004_Extranets.md"
     },
     {
-      "basename": "005_Conceptos_Importantes",
-      "path": "Electronica/Primer parcial/005_Conceptos_Importantes.md"
-    },
-    {
-      "basename": "004_Medidas_de_resumen",
-      "path": "Estadistica/Unidad 1/004_Medidas_de_resumen.md"
-    },
-    {
-      "basename": "003_Gráficos",
-      "path": "Estadistica/Unidad 1/003_Gráficos.md"
-    },
-    {
       "basename": "003_Software",
       "path": "RedesII/Primer parcial/003_Software.md"
     },
@@ -59,10 +83,6 @@
     {
       "basename": "004_Schrodinger's Formula",
       "path": "Electronica/Primer parcial/004_Schrodinger's Formula.md"
-    },
-    {
-      "basename": "003_Origen_de_la_electrónica",
-      "path": "Electronica/Primer parcial/003_Origen_de_la_electrónica.md"
     },
     {
       "basename": "BandGap",
