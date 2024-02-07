@@ -1,7 +1,7 @@
 - TCP/IP
 - TCP/IP y OSI difrerencias y similitudes
 - Esp SA XE IPC
-- LPS
+- MPLS (tecnologia de conmutación de paquetes)
 - Puertos conocidos (Well Known Ports)
     *Red* 80, 4..??
     *Remote Desktop Protocol* 

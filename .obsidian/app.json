@@ -1,0 +1,14 @@
+{
+  "livePreview": false,
+  "showLineNumber": true,
+  "useTab": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "0media",
+  "userIgnoreFilters": [
+    "media/"
+  ]
+}

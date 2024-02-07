@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "86a630665a9a6948",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eebd480b2750b82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01ce5152aee34dc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas/Unidad I/001_Sisema.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dc243d30dfdc90da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas/Objetivo general.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d4a3d1c619271b2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas/Actividades/01 Actividad.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a8dc019f64bbae36",
+    "type": "split",
+    "children": [
+      {
+        "id": "e501acb45d0164db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f8000dbc3259bd6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc03ba2f5d4b5eb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3981d926b4cbdb9",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba047cd75694ac43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b541469cf90e21c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "321704afe111cb80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac890b488a9fd193",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sistemas/Actividades/01 Actividad.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4a3039309f2995d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sistemas/Actividades/01 Actividad.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1aef7a6d24d117e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6769e4b27a6ae830",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sistemas/Actividades/01 Actividad.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "d4a3d1c619271b2f",
+  "lastOpenFiles": [
+    "Sistemas/Actividades",
+    "Sistemas/Objetivo general.md",
+    "Sistemas/Actividades/01 Actividad.md",
+    "Sistemas/Unidad I/002_Componentes del sistema de producción.md",
+    "Sistemas/Unidad I/001_Sisema.md",
+    "RedesII/Primer parcial/006_Network_Appliance.md",
+    "RedesII/Primer parcial/005_Firewalls.md",
+    "RedesII/Pendiente.md",
+    "RedesII/Primer parcial/004_Extranets.md",
+    "Electronica/Primer parcial/005_Conceptos_Importantes.md",
+    "0media/Electronica/Portadores_carga.png",
+    "0media/Electronica/Flujo_electrones_&_huecos.png",
+    "Estadistica/Unidad 1/004_Medidas_de_resumen.md",
+    "Estadistica/Unidad 1/003_Gráficos.md",
+    "RedesII/Primer parcial/003_Software.md",
+    "Estadistica/Unidad 1/001_Conceptos_básicos.md",
+    "Estadistica/Unidad 1/002 Organización de datos.md",
+    "Electronica/Primer parcial/004_Schrodinger's Formula.md",
+    "Electronica/Primer parcial/003_Origen_de_la_electrónica.md",
+    "0media/Electronica/Configuracion de silicio.png",
+    "0media/Electronica/BandGap.png",
+    "0media/Electronica/Nivel_energia.png",
+    "Estadistica/R/001_Bases_R.md",
+    "Estadistica/R/002_Gráficos_.md",
+    "RedesII/Primer parcial/002_Intranet.md",
+    "0media/Sistemas/Elementos_de_un_Sistema.png",
+    "Electronica/Primer parcial/001_Tipos_de_Materiales.md",
+    "0media/Electronica",
+    "Estadistica/R",
+    "Estadistica/Unidad 1",
+    "Estadistica",
+    "Sistemas/UML_Lenguaje_Unificado_de_Modelado.md",
+    "0media/Sistemas/Componentes_de_Un_Sistea.png",
+    "0media/Pasted image 20240201085149.png",
+    "0media/Sistemas",
+    "0media",
+    "RedesII/Primer parcial/001_Intranet_Y_Extranet.md",
+    "Electronica/Primer parcial",
+    "Electronica",
+    "Sistemas/Unidad I",
+    "Sistemas",
+    "Pendiente.md",
+    "Primer parcial/001_Intranet_Y_Extranet.md"
+  ]
+}
