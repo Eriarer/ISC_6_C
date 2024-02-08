@@ -11,3 +11,4 @@
 - Unidades Rad
 - Diferencia de IP pública y privada
 - Clases para segmentos de IP privada
+- Que es un CMS y cuales son los más conocidos
