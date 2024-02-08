@@ -8,6 +8,6 @@
     *DNS* 51, 53  
 - Puerto TCP/IP
 - Network Apliaince
-- Unidades Rad
+- Unidades Rack
 - Diferencia de IP pública y privada
 - Clases para segmentos de IP privada
