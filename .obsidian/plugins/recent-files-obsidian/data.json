@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "007_VPN",
-      "path": "RedesII/Primer parcial/007_VPN.md"
+      "basename": "006_Medidas_de_Dispersion",
+      "path": "Estadistica/Unidad 1/006_Medidas_de_Dispersion.md"
     },
     {
-      "basename": "Pendiente",
-      "path": "RedesII/Pendiente.md"
+      "basename": "004_Medidas_de_resumen",
+      "path": "Estadistica/Unidad 1/004_Medidas_de_resumen.md"
+    },
+    {
+      "basename": "005_Medidas_de_posicion",
+      "path": "Estadistica/Unidad 1/005_Medidas_de_posicion.md"
+    },
+    {
+      "basename": "008_VPN",
+      "path": "RedesII/Primer parcial/008_VPN.md"
     },
     {
       "basename": "005_Firewalls",
       "path": "RedesII/Primer parcial/005_Firewalls.md"
     },
     {
-      "basename": "003_Gráficos",
-      "path": "Estadistica/Unidad 1/003_Gráficos.md"
+      "basename": "007_MPLS",
+      "path": "RedesII/Primer parcial/007_MPLS.md"
     },
     {
-      "basename": "004_Medidas_de_resumen",
-      "path": "Estadistica/Unidad 1/004_Medidas_de_resumen.md"
+      "basename": "004_Extranets",
+      "path": "RedesII/Primer parcial/004_Extranets.md"
+    },
+    {
+      "basename": "Pendiente",
+      "path": "RedesII/Pendiente.md"
+    },
+    {
+      "basename": "003_Gráficos",
+      "path": "Estadistica/Unidad 1/003_Gráficos.md"
     },
     {
       "basename": "006_El_diodo_ideal",
@@ -67,10 +83,6 @@
     {
       "basename": "006_Network_Appliance",
       "path": "RedesII/Primer parcial/006_Network_Appliance.md"
-    },
-    {
-      "basename": "004_Extranets",
-      "path": "RedesII/Primer parcial/004_Extranets.md"
     },
     {
       "basename": "003_Software",
