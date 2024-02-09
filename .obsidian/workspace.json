@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RedesII/Pendiente.md",
+                "file": "RedesII/Primer parcial/005_Firewalls.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1bfd65367d403804",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RedesII/Primer parcial/007_VPN.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RedesII/Pendiente.md",
+                "file": "RedesII/Primer parcial/007_VPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RedesII/Pendiente.md",
+                "file": "RedesII/Primer parcial/007_VPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RedesII/Pendiente.md"
+                "file": "RedesII/Primer parcial/007_VPN.md"
               }
             }
           }
@@ -165,8 +178,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "1cd7a18b54eca9e2",
+  "active": "1bfd65367d403804",
   "lastOpenFiles": [
+    "RedesII/Pendiente.md",
+    "RedesII/Primer parcial/007_VPN.md",
+    "RedesII/Primer parcial/005_Firewalls.md",
     "RedesII/Tarea/Primer_Parcial/01_Network_Appliance.md",
     "RedesII/Tarea/Primer_Parcial",
     "RedesII/Tarea",
@@ -189,11 +205,9 @@
     "0media/Electronica/Diagrama_FueteVoltaje.png",
     "RedesII/Primer parcial/006_Network_Appliance.md",
     "RedesII/Primer parcial/004_Extranets.md",
-    "RedesII/Primer parcial/005_Firewalls.md",
     "RedesII/Primer parcial/003_Software.md",
     "RedesII/Primer parcial/001_Intranet_Y_Extranet.md",
     "RedesII/Primer parcial/002_Intranet.md",
-    "RedesII/Pendiente.md",
     "Sistemas/UML_Lenguaje_Unificado_de_Modelado.md",
     "Sistemas/Objetivo general.md",
     "Estructura_de_datos_2/Problemario_Docente/Untitled.md",
