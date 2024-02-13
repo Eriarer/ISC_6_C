@@ -73,10 +73,28 @@ En el caso de que los datos tengan asociada una categoría, esta  se puede usar 
 ![Diagrama de puntos](../../0media/Estadistica/Diagrama_Puntos_Ejemplo.png)
 ## Histograma
 Un histograma se emplea para ilustrar muestras agrupadas en intervalos (tipo III) esta integrado por rectángulos unidos (adyacentes) cuyos vértices de la base coinciden con los límites de los intervalos. 
-Los histogramas no son adecuados para comparar dos grupos de datos. En este caso puede ser más adecuado un polígono de frecuencias, en el cual los rectángulos se sustituyen por puntos en la parte superior de los rectángulos, uniendo dichos puntos con lineas rectas.  
+Los histogramas no son adecuados para comparar dos grupos de datos. En este caso puede ser más adecuado un polígono de frecuencias, en el cual los rectángulos se sustituyen por puntos en la parte superior de los rectángulos, uniendo dichos puntos con lineas rectas.    
 En los histogramas se pierde el orden en que fueron tomados los datos; por lo que no perite observar patrones a lo largo del tiempo.
-Se recomienda que el eje que representa a las frecuencias,  comience en $\large0$.
-![Histograma](../../0media/Estadistica/Histograma.png)
+Se recomienda que el eje que representa a las frecuencias,  comience en $\large0$.  
+
+![Histograma](../../0media/Estadistica/Diagrama_Histograma.png)
 ## Ojiva
-Una ojiva representa frecuencias acumuladas y está formado por puntos unidos en lineas rectas. Suele acompañar a un diagrama de barras o a un histograma.
-![](../../0media/Estadistica/Diagrama_Ojiva.png)
+Una ojiva representa frecuencias acumuladas y está formado por puntos unidos en lineas rectas. Suele acompañar a un diagrama de barras o a un histograma.  
+
+![Ojiva](../../0media/Estadistica/Diagrama_Ojiva.png)
+## Caja y brazos (Boxplot)
+1. $\large Q_1,Q_2,Q_3, IQR$  
+1. Calculamos la cercas interiores inferiores y superiores:  
+      $\large CI_i = Q_1-1.5*IQR$
+      $\large CI_s = Q_3+1.5*IQR$  
+1. Se consideran datos comunes o típicos a los datos dentro del intervalo definido por las *cercas interiores*.
+   Se denominan datos atípicos o aberrantes a los datos fuera del intervalo antes mencionado. Los datos atípicos se marcan con un símbolo de manera individual.     
+   ![](../../0media/Estadistica/Diagrama_Boxplot2.png)
+   ![Boxplot](../../0media/Estadistica/Diagrama_BoxPlot.png)
+   ### Ejemplo
+   Elabore el diagrama *boxplot* para los siguientes datos:  
+   
+   1|2|3|4|5|6|7|8|9|10|11|12|13|14
+   :-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:
+   89|557|1200|918|593|499|76|203|465|200|513|207|18|513
+   ![Grafico por computadora](../../0media/Estadistica/Grafico_Boxplot_EJ1.png)
