@@ -51,5 +51,5 @@ En probabilidad, a los conjuntos y  subconjuntos les llamamos *eventos*. Los *ev
 Los tipos de **espacios muestrales** son:
 - **Finitos**: tienen fin
 - **Infinitos**
-    - *Numerables*: se pueden contar $\tiny\text{cuantos volados se deben hacer para que salga determinado valor}.
+    - *Numerables*: se pueden contar $\tiny\text{cuantos volados se deben hacer para que salga determinado valor}$.
     - *No numerables*: infinitas posibilidades $\tiny\text{distancia que queda una moneda en el juego de la rayuela}$.
