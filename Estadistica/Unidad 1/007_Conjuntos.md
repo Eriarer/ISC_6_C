@@ -14,7 +14,7 @@ $$\large A-B\ a/B$$
 
 $$\large A^c=A'=\bar{A}$$  
 
-![](../../0media/Pasted%20image%2020240215092836.png)
+![](../../0media/Estadistica/Diagramas.png)
 
 ## Propiedades
 Se tienen las siguientes propiedades para conjuntos:

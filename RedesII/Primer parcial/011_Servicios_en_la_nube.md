@@ -16,3 +16,7 @@
 - Correo electrónico, el software financiero, las aplicaciones de mensajería y el software de conectividad son ejemplos comunes en implementaciones SaaS.
 - Es el menos flexible, también es el más sencillo de poner en marcha.
 - Requiere la menor cantidad de conocimientos técnicos o experiencia para utilizarlo en toda su dimensión.
+##  [Otros servicios](../Investigaciones/Services.md)
+El modelo de microsoft:
+![shared-responsibility](../../0media/RedesII/shared-responsibility.svg)
+![what_is_cloud](../../0media/RedesII/what_is_cloud.jpg)
