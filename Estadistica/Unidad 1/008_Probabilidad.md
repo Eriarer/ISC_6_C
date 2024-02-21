@@ -15,3 +15,22 @@ Sea experimento aleatorio cuyo correspondiente espacio muestral $\large \Omega$ 
   
 ## Subjetiva
 Bajo este enfoque, cada persona le atribuye una cierta probabilidad a cada evento, basándose en experiencias similares al evento en cuestión. 
+
+## Restringida
+Sea $A$ y $B$ de dos eventos, con $P(B) \gt 0$ de define:  
+$P(A | B)\small \text{   Probabilidad de "A dado B"}$
+Como:
+$P(A|B)=\Huge\frac{P(A\cap B)}{P(B)}$
+Regla de multiplicación
+$P(A\cap B) = P(A|B)P(B)$
+## Independencia (estadística)
+$A$ es independiente de B sí:
+$P(A|B) = P(A)$
+Equivalencias:
+1. $P(A|B) = P(A)$
+2. $P(A\cap B) = P(A)P(B)$ <- $\small \text{Esta solo se puede usar cuando son independientes.}$
+3. $P(B|A) = P(B)$
+### Pasando de 1 a 3
+Supongamos $P(A|B) = P(A)$ entonces:  
+$P(A\cap B) = P(A|B)P(B)$
+$P(A\cap B) = P(A)P(B)$

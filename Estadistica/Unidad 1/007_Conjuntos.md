@@ -35,8 +35,12 @@ Se tienen las siguientes propiedades para conjuntos:
       $\large (A^c)^c\ =\ A$
       $\large A-B\ = A\cap B^c$
 - Se cumplen las llamadas leyes de morgan:
-      $\large (A\cup B)^c\ =\ A^c\cup B^c$
-      $\large (A\cap B)^c\ =\ A^c\cap B^c$
+      $\large (A\cap B)^c\ =\ A^c\cup B^c$
+      $\large (A\cup B)^c\ =\ A^c\cap B^c$
+-  [Propiedades de Axioms de Kolmogorov](009_Axiomas_Kolmogorov.md#Propiedades)
+- [Probabilidad Restringida](008_Probabilidad.md#Restringida)
+- [Independencia (estadística)](008_Probabilidad.md#Independencia%20(estadística))
+      
 ## Eventos especiales
 En probabilidad, a los conjuntos y  subconjuntos les llamamos *eventos*. Los *eventos* especiales son:
 - Eventos simples:
@@ -52,4 +56,6 @@ Los tipos de **espacios muestrales** son:
 - **Finitos**: tienen fin
 - **Infinitos**
     - *Numerables*: se pueden contar $\tiny\text{cuantos volados se deben hacer para que salga determinado valor}$.
-    - *No numerables*: infinitas posibilidades $\tiny\text{distancia que queda una moneda en el juego de la rayuela}$.
+    - *No numerables*: infinitas posibilidades $\tiny\text{distancia que queda una moneda en el juego de la rayuela}$.  
+
+

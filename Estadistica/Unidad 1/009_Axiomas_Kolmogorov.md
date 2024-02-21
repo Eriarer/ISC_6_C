@@ -41,6 +41,22 @@ $P(B)=P(B\cap A) + P(B\cap A^c)$
 $P(B)=P(B\cap A) + P(B-A)$
 Así $P(B-A)=P(B)-P(B\cap A)$
 ## D
-$B\cup A = A\cup ((b\cap A)\cup (B\cap A^c))$
-$B\cup A = (B\cap A)\cup (A\cup (B\cap A^c))$
-$B\cup A = (B\cap A)\cup (()\cap ()$
+$A\cup (B-A) = A\cup (B\cap A^c)$
+$A\cup (B-A) = (A\cup B)\cap (A\cup A^c)$
+$A\cup (B-A) = (A\cup B)\cap \Omega$
+$A\cup (B-A) = (A\cup B)$
+Por lo tanto
+$P(A\cup B) = P(A\cup (B-A))$
+Revisamos que sean excluyentes $A\cup (B-A)$
+$A\cap (B-A)=A\cap (B\cap A^c)$
+$A\cap (B-A)=B\cap (A\cap A^c)$
+$A\cap (B-A)=B\cap 0$
+$A\cap (B-A)=0 \text{ Por lo que si son excluyentes}$
+A si con iii)
+$P(A\cup B) = P(A+(B-A))$
+$P(A\cup B) = P(A)+P(B)+P(B\cap A)$
+$P(A\cup B) = P(A)+P(B)+P(A\cap B)$
+
+# Ejemplo
+Sean $A$ y $B$ eventos tales que $P(A)=0.65$ $P(B)=0.23$ y $P(A\cap B)=0.08$.
+Calcule $P(A\cup B)\ P(A-B)\ P(A^c\cap B^c)$ 
