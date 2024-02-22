@@ -1,0 +1,3 @@
+- Se inserta una capa de software en le proceso de arranque conocido como hipervisor
+- Este controla el acceso al HW físico del host.
+- Los controladores de HW se instalan en el host
