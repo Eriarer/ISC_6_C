@@ -40,6 +40,7 @@ Se tienen las siguientes propiedades para conjuntos:
 -  [Propiedades de Axioms de Kolmogorov](009_Axiomas_Kolmogorov.md#Propiedades)
 - [Probabilidad Restringida](008_Probabilidad.md#Restringida)
 - [Independencia (estadística)](008_Probabilidad.md#Independencia%20(estadística))
+- [Regla de Bayes](010_Regla_de_Bayes.md)
       
 ## Eventos especiales
 En probabilidad, a los conjuntos y  subconjuntos les llamamos *eventos*. Los *eventos* especiales son:
