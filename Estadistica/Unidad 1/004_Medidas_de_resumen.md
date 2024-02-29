@@ -14,7 +14,7 @@
             $\Huge\displaystyle \bar{x} = \frac{\sum_{k=1}^{k} w_k \times n_k}{n}$ <- Datos tipo 2
         - Mediana
           Datos tipo 1
-          $$\Huge\tilde{x}= \begin{cases} x_{\frac{n}{2}} & \text{si } n \text{ es impar} \\ \frac{x_{\frac{n}{2}} + x_{\frac{n}{2}+1}}{2} & \text{si } n \text{ es par} \end{cases}$$
+          $$\Huge\tilde{x}= \begin{cases} x_{(\frac{n}{2})} & \text{si } n \text{ es impar} \\ \frac{x_{(\frac{n}{2})} + x_{(\frac{n}{2}+1)}}{2} & \text{si } n \text{ es par} \end{cases}$$
         - Moda
           En este curso la moda tiene que estar completamente definida, es decir, un unico dato que se repite más
          $\Huge\hat{x} = \text{arg} \max_i n_i$
